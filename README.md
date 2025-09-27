@@ -6,6 +6,8 @@ Tujuan dari tugas ini adalah agar mahasiswa memahami dasar penggunaan **Express.
 
 ## 📂 Struktur Project
 
+![project](expressModule_F1D022118/screenshots/project.png)
+
 ## ⚙️ Instalasi
 1. Clone repository ini:
    ```bash
@@ -44,20 +46,20 @@ Tujuan dari tugas ini adalah agar mahasiswa memahami dasar penggunaan **Express.
 ## 📸 Output yang Dihasilkan
 - GET / → Nama dan NIM.
 
-![alt text](screenshots/1.png)
+![1](expressModule_F1D022118/screenshots/1.png)
 
 - GET /hitung → Hasil penjumlahan.
 
-![alt text](screenshots/2.png)
+![2](expressModule_F1D022118/screenshots/2.png)
 
 - GET /profile → JSON array daftar profile.
 
-![alt text](screenshots/3.png)
+![3](expressModule_F1D022118/screenshots/3.png)
 
 - GET /profile/:nim → JSON detail profile sesuai NIM.
 
-![alt text](screenshots/4.png)
+![4](expressModule_F1D022118/screenshots/4.png)
 
 - GET /profile/1 → JSON detail profile sesuai id.
 
-![alt text](screenshots/5.png)
+![5](expressModule_F1D022118/screenshots/5.png)
